@@ -1,0 +1,8 @@
+
+Araç Kiralama Otomasyonu Hakkında:
+
+Bu araç kiralama otomasyonu, araçların kayıt, müşteri yönetimi, rezervasyon, kiralama ve teslim işlemlerini hızlı ve kolay bir şekilde yönetmenizi sağlayan kullanıcı dostu bir uygulamadır. Uygulama üzerinden araç bilgilerini görüntüleyebilir, yeni kiralamalar oluşturabilir, mevcut kiralamaları takip edebilir ve işlemlerinizi sorunsuz bir şekilde tamamlayabilirsiniz.
+
+Not: Programı çalıştırmak için yüklediğiniz klasördeki .exe uzantılı dosyayı çift tıklayarak başlatmanız yeterlidir.
+
+İyi kullanımlar dileriz!
